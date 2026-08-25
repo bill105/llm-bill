@@ -1,1 +1,1 @@
-# llm-bill
+"Un logiciel qui n'est pas limité par son code d'origine, mais qui apprivoise le matériel sur lequel il tourne pour en tirer une puissance brute maximale."
